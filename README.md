@@ -17,7 +17,7 @@ Clone the repository to your local machine.
 
 bash
 Copy code
-git clone https://github.com/yourusername/book-management-app.git
+git clone https://github.com/SanketRKakade/book-reviewer.git
 2. Install Dependencies
 Backend Setup
 Navigate to the backend directory:
